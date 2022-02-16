@@ -141,7 +141,7 @@ public class Program {
         questionSeven.printQuestion();
 
         var guess7 = GetConsoleInput();
-        if (guess6 == "1977")
+        if (guess7 == "1977")
         {
             Console.WriteLine("Correct! You get 100 points!");
                 score += 100;
@@ -157,7 +157,7 @@ public class Program {
         questionEight.printQuestion();
 
         var guess8 = GetConsoleInput();
-        if (guess6 == "1976")
+        if (guess8 == "1976")
         {
             Console.WriteLine("Correct! You get 100 points!");
                 score += 100;
@@ -173,7 +173,7 @@ public class Program {
         questionNine.printQuestion();
 
         var guess9 = GetConsoleInput();
-        if (guess6 == "1816")
+        if (guess9 == "1816")
         {
             Console.WriteLine("Correct! You get 100 points!");
                 score += 100;
@@ -189,7 +189,7 @@ public class Program {
         questionTen.printQuestion();
 
         var guess10 = GetConsoleInput();
-         if (guess6 == "4")
+         if (guess10 == "4")
         {
             Console.WriteLine("Correct! You get 100 points!");
                 score += 100;
