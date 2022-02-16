@@ -1,0 +1,15 @@
+C:\Users\mercb\Documents\CF127FT\codingFoundation\assignments\C# Console Game\cSharpGame\bin\Debug\net6.0\consoleGame.exe
+C:\Users\mercb\Documents\CF127FT\codingFoundation\assignments\C# Console Game\cSharpGame\bin\Debug\net6.0\consoleGame.deps.json
+C:\Users\mercb\Documents\CF127FT\codingFoundation\assignments\C# Console Game\cSharpGame\bin\Debug\net6.0\consoleGame.runtimeconfig.json
+C:\Users\mercb\Documents\CF127FT\codingFoundation\assignments\C# Console Game\cSharpGame\bin\Debug\net6.0\consoleGame.dll
+C:\Users\mercb\Documents\CF127FT\codingFoundation\assignments\C# Console Game\cSharpGame\bin\Debug\net6.0\ref\consoleGame.dll
+C:\Users\mercb\Documents\CF127FT\codingFoundation\assignments\C# Console Game\cSharpGame\bin\Debug\net6.0\consoleGame.pdb
+C:\Users\mercb\Documents\CF127FT\codingFoundation\assignments\C# Console Game\cSharpGame\obj\Debug\net6.0\consoleGame.csproj.AssemblyReference.cache
+C:\Users\mercb\Documents\CF127FT\codingFoundation\assignments\C# Console Game\cSharpGame\obj\Debug\net6.0\consoleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mercb\Documents\CF127FT\codingFoundation\assignments\C# Console Game\cSharpGame\obj\Debug\net6.0\consoleGame.AssemblyInfoInputs.cache
+C:\Users\mercb\Documents\CF127FT\codingFoundation\assignments\C# Console Game\cSharpGame\obj\Debug\net6.0\consoleGame.AssemblyInfo.cs
+C:\Users\mercb\Documents\CF127FT\codingFoundation\assignments\C# Console Game\cSharpGame\obj\Debug\net6.0\consoleGame.csproj.CoreCompileInputs.cache
+C:\Users\mercb\Documents\CF127FT\codingFoundation\assignments\C# Console Game\cSharpGame\obj\Debug\net6.0\consoleGame.dll
+C:\Users\mercb\Documents\CF127FT\codingFoundation\assignments\C# Console Game\cSharpGame\obj\Debug\net6.0\ref\consoleGame.dll
+C:\Users\mercb\Documents\CF127FT\codingFoundation\assignments\C# Console Game\cSharpGame\obj\Debug\net6.0\consoleGame.pdb
+C:\Users\mercb\Documents\CF127FT\codingFoundation\assignments\C# Console Game\cSharpGame\obj\Debug\net6.0\consoleGame.genruntimeconfig.cache
